@@ -1,3 +1,3 @@
 # java-ortalama-hesaplama
 
-[Patika](www.patika.dev) --Ödevidir
+[Patika](https://www.patika.dev/tr) --Ödevidir
